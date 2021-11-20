@@ -9,6 +9,9 @@ predict the classification for each woman.
 
 # Working App URL : https://hp-logistics-regression-deploy.herokuapp.com/
 
+Model Test Data : 
+model.predict([[2.0,37.0,9.0,0.0,2.0,16.0,4.0,4.0]])[0]  => 1
+model.predict([[4.0,27.0,6.0,1.0,3.0,14.0,5.0,5.0]])[0]  => 0
 Dataset
 
 The dataset I chose is the affairs dataset that comes with Statsmodels. It
