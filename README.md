@@ -7,6 +7,8 @@ I decided to treat this as a classification problem by creating a new binary
 variable affair (did the woman have at least one affair?) and trying to
 predict the classification for each woman.
 
+# Working App URL : https://hp-logistics-regression-deploy.herokuapp.com/
+
 Dataset
 
 The dataset I chose is the affairs dataset that comes with Statsmodels. It
